@@ -1,4 +1,5 @@
 import "regenerator-runtime";
+import "./components/navbar-component.js";
 import "./components/skeleton-component.js";
 import "./components/modal-component.js";
 import "./components/footer-component.js";
