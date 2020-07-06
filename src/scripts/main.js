@@ -1,6 +1,6 @@
 function main() {
 
-    const baseUrl = "http://www.omdbapi.com/?apikey=4883f890&";
+    const baseUrl = "https://www.omdbapi.com/?apikey=4883f890&";
 
     const keyword = document.querySelector("#keyword");
     const modalPoster = document.querySelector("#modal-poster");
