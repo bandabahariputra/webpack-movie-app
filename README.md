@@ -1,3 +1,27 @@
-# webpack-movie-app
+# Webpack Movie App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/46f6dafe-e1dd-474a-85ab-575d9859a8c7/deploy-status)](https://app.netlify.com/sites/movie-app-bandabahariputra/deploys)
+Aplikasi pencarian film menggunakan Webpack sebagai build tools.
+
+## Development server
+
+1. Clone atau download project ini
+
+2. Masuk kedalam folder project
+
+3. Install npm
+
+```
+npm install
+```
+
+4. Jalankan local development
+
+```
+npm run start-dev
+```
+
+## Build
+
+```
+npm run build
+```
