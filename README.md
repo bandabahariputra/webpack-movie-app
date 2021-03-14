@@ -1,6 +1,7 @@
 # Webpack Movie App
 
 Aplikasi pencarian film menggunakan Webpack sebagai build tools.
+Project ini untuk submission Dicoding.
 
 ## Development server
 
